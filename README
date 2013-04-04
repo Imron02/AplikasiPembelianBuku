@@ -1,0 +1,34 @@
+AplikasiPembelianBuku
+=====================
+
+Tugas Java Aplikasi Pembelian Buku
+
+
+Aplikasi ini dibuat untuk keperluan tugas pemograman java 2.
+
+
+Untuk MySQL yang username rootnya tidak memakai password.
+=====================
+1> Download Aplikasinya
+
+2> Buka Netbeansnya dan jalankan Apache dan MySQL
+
+3> Buka Folder database dan import file dbaplikasipembelianbuku.sql ke mysql
+
+4> Klik Open Project pada Netbeans dan pilih source AplikasiPembelianBuku ini
+
+5> Compile and run
+
+Untuk MySQL yang username rootnya memakai password.
+=====================
+1> Download Aplikasinya
+
+2> Buka Netbeansnya dan jalankan Apache dan MySQL
+
+3> Buka Folder database dan import file dbaplikasipembelianbuku.sql ke mysql
+
+4> Klik Open Project pada Netbeans dan pilih source AplikasiPembelianBuku ini
+
+5> Klik package model dan buka file Koneksi.java lalu ubah static String password = ""; menjadi static String password = "kodepasswordkamu";
+
+6> Compile and run
