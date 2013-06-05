@@ -1,0 +1,23 @@
+#Netbeans Project
+nbproject/
+
+#Robots
+robots.txt
+
+#CI
+/user_guide/
+
+#SublimeText
+*.cache
+Package Control.sublime-settings
+
+#Java Package
+*.jar
+*.war
+*.class
+*.ear
+
+# SublimeText project files
+/*.sublime-project
+*.sublime-workspace
+sftp-config*.json

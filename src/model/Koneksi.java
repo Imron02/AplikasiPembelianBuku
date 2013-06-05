@@ -12,5 +12,5 @@ public class Koneksi {
     static String driver = "com.mysql.jdbc.Driver";
     static String database = "jdbc:mysql://localhost:3306/dbaplikasipembelianbuku";
     static String user = "root";
-    static String password = "2!mt!2=";    
+    static String password = "";    
 }
